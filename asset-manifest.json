@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Pankaj01342.github.io/india_post/static/css/main.ce5150a3.chunk.css",
-    "main.js": "/Pankaj01342.github.io/india_post/static/js/main.058470d3.chunk.js",
-    "main.js.map": "/Pankaj01342.github.io/india_post/static/js/main.058470d3.chunk.js.map",
-    "runtime-main.js": "/Pankaj01342.github.io/india_post/static/js/runtime-main.72babf8c.js",
-    "runtime-main.js.map": "/Pankaj01342.github.io/india_post/static/js/runtime-main.72babf8c.js.map",
-    "static/js/2.51a1b70a.chunk.js": "/Pankaj01342.github.io/india_post/static/js/2.51a1b70a.chunk.js",
-    "static/js/2.51a1b70a.chunk.js.map": "/Pankaj01342.github.io/india_post/static/js/2.51a1b70a.chunk.js.map",
-    "static/js/3.adfe84cc.chunk.js": "/Pankaj01342.github.io/india_post/static/js/3.adfe84cc.chunk.js",
-    "static/js/3.adfe84cc.chunk.js.map": "/Pankaj01342.github.io/india_post/static/js/3.adfe84cc.chunk.js.map",
-    "index.html": "/Pankaj01342.github.io/india_post/index.html",
-    "static/css/main.ce5150a3.chunk.css.map": "/Pankaj01342.github.io/india_post/static/css/main.ce5150a3.chunk.css.map",
-    "static/js/2.51a1b70a.chunk.js.LICENSE.txt": "/Pankaj01342.github.io/india_post/static/js/2.51a1b70a.chunk.js.LICENSE.txt"
+    "main.css": "/pankaj01342.github.io/india_post/static/css/main.ce5150a3.chunk.css",
+    "main.js": "/pankaj01342.github.io/india_post/static/js/main.bc6ce79d.chunk.js",
+    "main.js.map": "/pankaj01342.github.io/india_post/static/js/main.bc6ce79d.chunk.js.map",
+    "runtime-main.js": "/pankaj01342.github.io/india_post/static/js/runtime-main.91507e0f.js",
+    "runtime-main.js.map": "/pankaj01342.github.io/india_post/static/js/runtime-main.91507e0f.js.map",
+    "static/js/2.f3c4be78.chunk.js": "/pankaj01342.github.io/india_post/static/js/2.f3c4be78.chunk.js",
+    "static/js/2.f3c4be78.chunk.js.map": "/pankaj01342.github.io/india_post/static/js/2.f3c4be78.chunk.js.map",
+    "static/js/3.95429494.chunk.js": "/pankaj01342.github.io/india_post/static/js/3.95429494.chunk.js",
+    "static/js/3.95429494.chunk.js.map": "/pankaj01342.github.io/india_post/static/js/3.95429494.chunk.js.map",
+    "index.html": "/pankaj01342.github.io/india_post/index.html",
+    "static/css/main.ce5150a3.chunk.css.map": "/pankaj01342.github.io/india_post/static/css/main.ce5150a3.chunk.css.map",
+    "static/js/2.f3c4be78.chunk.js.LICENSE.txt": "/pankaj01342.github.io/india_post/static/js/2.f3c4be78.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72babf8c.js",
-    "static/js/2.51a1b70a.chunk.js",
+    "static/js/runtime-main.91507e0f.js",
+    "static/js/2.f3c4be78.chunk.js",
     "static/css/main.ce5150a3.chunk.css",
-    "static/js/main.058470d3.chunk.js"
+    "static/js/main.bc6ce79d.chunk.js"
   ]
 }
